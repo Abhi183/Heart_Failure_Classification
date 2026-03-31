@@ -18,8 +18,8 @@ env/
 .ipynb_checkpoints/
 *.ipynb_checkpoints
 
-# Model artifacts (large files — generate locally with train_model.py)
-models/*.pkl
+# Model artifacts
+# models/*.pkl  (committed to repo for Streamlit demo)
 
 # OS
 .DS_Store
